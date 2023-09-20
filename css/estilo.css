@@ -1,0 +1,307 @@
+@media (max-width: 767px) {
+    body{
+        background: #4169e1 
+ }
+ header{
+   text-align: center;
+ }
+ .logo{
+   margin: 10px 0 0 0;
+   width: 150px;
+   height: 100px;
+ }
+ .novos{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffdab9;
+    position: absolute;
+    left: 3%;
+ }
+ h3{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: #ffdab9;
+   margin: 0 0 15px 0;
+ }
+ img{
+   width: 70px;
+   height: 70px;
+}
+ .imgpyh{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 27%;
+   left: 4%;
+ }
+ .imgcc{
+   text-align: center;
+   width: 80px;
+   height: 110px;
+   border-color: #ffdab9;
+   border-style: solid;
+   border-radius: 5%;
+   position: absolute;
+   top: 27%;
+   left: 35%;
+}
+ .imgcmais{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 27%;
+   left: 65%;
+ }
+ .barra{
+   width: 740px;
+   background-color: black;
+   height: 2px;
+   position: absolute;
+   top: 46%;
+ }
+ .cursos{
+   color: #ffdab9;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   position: absolute;
+   top: 44%;
+   left: 3%;
+ }
+ .imghtml{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 54%;
+   left: 4%;
+}
+.imgcss{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 54%;
+   left: 35%;
+}    
+ .imgc{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 54%;
+   left: 65%;
+}
+ .barra2{
+   width: 740px;
+   background-color: black;
+   height: 2px;
+   position: absolute;
+   top: 73%;
+ }
+ .continuar{
+   color: #ffdab9;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   position: absolute;
+   top: 71%;
+   left: 3%;
+ }
+ .imgjs{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 81%;
+   left: 4%;
+ }
+ .imgja{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 81%;
+   left: 35%;
+ }
+ .imgphp{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 81%;
+   left: 65%;
+ }
+}
+@media (min-width: 768px) {
+    body{
+        background: #4169e1 
+ }
+ header{
+   text-align: center;
+ }
+ .logo{
+   margin: 10px 0 0 0;
+   width: 150px;
+   height: 100px;
+ }
+ h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 35px 0 0 15px;
+    color: #ffdab9;
+ }
+ h3{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: #ffdab9;
+   margin: 0 0 15px 0;
+ }
+ img{
+   width: 70px;
+   height: 70px;
+}
+ .imgpyh{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 27%;
+   left: 4%;
+ }
+ .imgcc{
+   text-align: center;
+   width: 80px;
+   height: 110px;
+   border-color: #ffdab9;
+   border-style: solid;
+   border-radius: 5%;
+   position: absolute;
+   top: 27%;
+   left: 35%;
+}
+ .imgcmais{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 27%;
+   left: 65%;
+ }
+ .barra{
+   width: 740px;
+   background-color: black;
+   height: 2px;
+   position: absolute;
+   top: 44%;
+ }
+ .cursos{
+   color: #ffdab9;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   position: absolute;
+   top: 42%;
+ }
+ .imghtml{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 54%;
+   left: 4%;
+}
+.imgcss{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 54%;
+   left: 35%;
+}    
+ .imgc{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 54%;
+   left: 65%;
+}
+ .barra2{
+   width: 740px;
+   background-color: black;
+   height: 2px;
+   position: absolute;
+   top: 71%;
+ }
+ .continuar{
+   color: #ffdab9;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   position: absolute;
+   top: 69%;
+ }
+ .imgjs{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 81%;
+   left: 4%;
+ }
+ .imgja{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 81%;
+   left: 35%;
+ }
+ .imgphp{
+   width: 80px;
+   height: 110px;
+   text-align: center;
+   border-radius: 5%;
+   border-color: #ffdab9;
+   border-style: solid;
+   position: absolute;
+   top: 81%;
+   left: 65%;
+ }
+}
